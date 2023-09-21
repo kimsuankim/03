@@ -11,7 +11,6 @@ int main(int argc, char *argv[]) {
    scanf("%c", &c);
    
    i= c - '0';
-   printf("the input number ascii is %i\n", i);
    printf("the input number is %i\n", i);
     
 	return 0;

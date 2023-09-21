@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
     printf("enter a float : ");
     sacnf("%f" , &input_float);
     
-    printf("integer : %d, float : %f¡¬n", input_int, input_float);
+    printf("integer : %d, float : %f\n", input_int, input_float);
     
 	return 0;
 }
